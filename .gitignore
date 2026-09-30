@@ -1,0 +1,14 @@
+# Go build output
+/bin/
+/build/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage.out
+coverage.html
